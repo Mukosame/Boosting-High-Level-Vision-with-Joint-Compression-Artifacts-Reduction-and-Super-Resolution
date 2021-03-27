@@ -22,10 +22,11 @@ By [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1), [Qian L
 
 ## Citations
 ```BibTex
-@article{xiang2020boosting,
+@inproceedings{xiang2020boosting,
   title={Boosting High-Level Vision with Joint Compression Artifacts Reduction and Super-Resolution},
   author={Xiang, Xiaoyu and Lin, Qian and Allebach, Jan P},
-  journal={arXiv preprint arXiv:2010.08919},
-  year={2020}
+  booktitle={International Conference on Pattern Recognition},
+  year={2020},
+  organization={IEEE}
 }
 ```
